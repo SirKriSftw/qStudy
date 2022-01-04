@@ -1,0 +1,21 @@
+.background {
+    background-color:rgb(100, 120, 260);
+
+    position: absolute;
+    top: 0;
+    left: 0;
+
+    height: 100%;
+    width: 100%;
+}
+
+.sidebar {
+    background-color:rgb(220, 200, 125);
+
+    position: absolute;
+    top: 0;
+    left: 75%;
+
+    height: 100%;
+    width: 25%;
+}
